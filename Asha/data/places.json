@@ -1,0 +1,20 @@
+{
+    "countries":[
+        {
+            "name":"Akalush", 
+            "description": "Akalush is the continent ruled over by The Celestial Emperor. Thanks to his presence, The Order of Light is the primary religion and humans living here have mostly been enslaved. They are a powerful empire that often affects the laws in foreign countries thanks to the mere threat of retaliation should they disobey."
+        },
+        {
+            "name":"Antoen", 
+            "description":"A small continent in the southern ocean that is scarcely inhabited and largely ignored. There’s only one known settlement there, which is inhabited by a mix of people from Seishun and Drechen. It’s largely used as a trading hub and resting spot for those sailing between the two continents."
+        },
+        {
+            "name":"Drechen", 
+            "description":"Home to dwarves, gnomes, halflings, and goliaths, Drechen is the southernmost continent connected to Akalush by a land bridge. It’s a bit of an open secret in Drechen that former slaves often escape over the land bridge to live free lives in this country."
+        },
+        {
+            "name":"Seishun", 
+            "description":"Seishun is the elven continent to the west, which is separated from Akalush and Drechen by the ocean. Although the spirits exist everywhere in Asha, their presence is especially strong here and most of their religions are centered around them. Shrines said to house spirits are common both within civilization and out in the wild. \rPredominant races are elves and harengon."
+        }
+    ]
+}

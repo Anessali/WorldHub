@@ -1,0 +1,30 @@
+{
+    "common" : [
+        {
+            "name":"Seishun Elves",
+            "description":"Believed to make up 70% of the population on Merchant's Coast, elves seem to be the most common race on Seishun."
+        },
+        {
+            "name":"Green Elves",
+            "description":"Whether they're called green elves or half-orcs depends squarely on the culture they belong to. It is generally considered an insult to the green elves of Lishara, while those from orcish tribes tend to think of themselves as half-orcs."
+        },
+        {
+            "name":"Harengon",
+            "description" : ""
+        },
+        {
+            "name":"Humans",
+            "description":"Thanks to pressure from Akalush, most humans in Seishun live nomadic lives. Some choose to live in cities, but to do so is a great risk."
+        }
+    ],
+    "uncommon" : [
+        {
+            "name" : "Celestial Elves and Aasimar",
+            "description" : "Any elves with the golden eyes and hair indicative of celestial heritage has a dangerous road ahead, for they are a symbol of fear to the citizens of Seishun."
+        },
+        {
+            "name" : "Aasimar",
+            "description" : "Considered nobility overseas, the citizens of Seishun know to get out of the way when an aasimar draws near."
+        }
+    ]
+}
